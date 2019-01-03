@@ -31,6 +31,11 @@ ol, ul {
   text-align: center;
   width: 34px;
 }
+.circle{
+  height: 34px;
+  width: 34px;
+  border-radius: 100%;
+}
 
 .square:focus {
   outline: none;
